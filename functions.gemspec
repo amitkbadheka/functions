@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Functions::VERSION
   spec.authors       = ["amitbadheka"]
   spec.email         = ["ab@pykih.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Testing string and fixnum functions}
+  spec.description   = %q{chota = downcase, mota = upcase, divide2 = divide by 2}
   spec.homepage      = ""
   spec.license       = "MIT"
 
